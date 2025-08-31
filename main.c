@@ -1,7 +1,7 @@
 /* main.c
    STM32G474VET6 — Example VCU tasks: ADC+DMA 500Hz, Control 1kHz, CAN handling
    Uses: HAL, FreeRTOS (cmsis_os_v2)
-   Author: example for NYU Motorsports embedded+software interviews
+   Author: example for NYU Motorsports embedded+software 
 */
 
 #include "stm32g4xx_hal.h"
